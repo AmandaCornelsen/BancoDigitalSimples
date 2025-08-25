@@ -1,7 +1,4 @@
-import banco.Banco;
-import banco.Conta;
-import banco.ContaCorrente;
-import banco.ContaPoupanca;
+package banco;
 
 import java.util.Scanner;
 
