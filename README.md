@@ -1,4 +1,4 @@
-﻿# BancoDigitalSimples
+﻿# Simple Digital Bank
 
 📝 Project Overview
 
@@ -119,3 +119,4 @@ Proper validations are implemented for withdrawals, transfers, and overdraft lim
 👩‍💻 **Author**
 
 Amanda Cornelsen – Java enthusiast and student focused on Object-Oriented Programming and project-based learning.
+
